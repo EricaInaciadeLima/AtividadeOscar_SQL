@@ -120,6 +120,5 @@ insert into movies (year_film, year_ceremony, ceremony, category, name, film, wi
 values (2002, 2003, 75, 'best actress', 'salma hayek', 'frida', '0');
    ```
 
-16) Agora vamos falar da sua vida. Me diga o nome de uma pessoa que você admira e o que ela fez na sua vida. Agora me diz: quê prêmio essa pessoa merece? <br>
- R: Minha mãe, Inacia, é a pessoa que mais me incentiva a querer crescer profissional e pessoalmente.
+
 
