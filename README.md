@@ -1,4 +1,4 @@
-# AtividadeOscar_SQL
+# Atividade Oscar SQL
 
 1) Quantas vezes natalie portman foi indicada ao oscar? <br>
 R: Foi indicada 3 vezes.<br>
