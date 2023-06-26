@@ -1,5 +1,7 @@
 # Atividade Oscar SQL
 
+*Atividade proposta pelo professor Gabriel do Instituto PROA para desenvolver habilidades na linguagem SQL.*
+
 1) Quantas vezes natalie portman foi indicada ao oscar? <br>
 R: Foi indicada 3 vezes.<br>
 
